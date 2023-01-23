@@ -1,4 +1,4 @@
-### API docs are availible on route /api/docs
+### API docs are available on route /api/docs
 
 Instruction for running the program with docker:
 
